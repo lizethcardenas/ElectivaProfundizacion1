@@ -78,6 +78,8 @@ if(!isNaN(variable_global)){
     // console.log(sumatoria);
     // console.log(sumatoria);
 
+    // https://www.youtube.com/watch?v=O9CKO86teyM&list=PLI7nHlOIIPOJtTDs1HVJABswW-xJcA7_o
+
 }else{
     alert("No es valido: " + variable_global);
 }
