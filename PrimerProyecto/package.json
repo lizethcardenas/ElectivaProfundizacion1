@@ -1,0 +1,19 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.1",
+  "description": "programa básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "seo",
+    "CUR",
+    "Electiva1"
+  ],
+  "author": "Oscardo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
