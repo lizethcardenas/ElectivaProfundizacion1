@@ -10,7 +10,7 @@ function createWindow () {
     }
   })
 
-  // y carga el index.html de la aplicación.
+  // carga el index.html de la aplicación.
   win.loadFile('index.html')
 
   
